@@ -111,7 +111,7 @@ Replace `<repository-url>` with the GitHub clone URL for this repository.
 To clone directly to a chosen location:
 
 ```powershell
-git clone <repository-url> "C:\Projects\Cambodian Exchange Rate Automation"
+git clone https://github.com/justvroth-create/Cambodian-Exchange-Rate-Automation "C:\Projects\Cambodian Exchange Rate Automation"
 cd "C:\Projects\Cambodian Exchange Rate Automation"
 ```
 
